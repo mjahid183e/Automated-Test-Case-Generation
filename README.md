@@ -1,1 +1,2 @@
 # Automated-Test-Case-Generation
+In this research, we introduce an LLM-based approach using the openly available methods2test dataset extracted from a collection of Java software repositories, designed to generate unit test cases automatically and demonstrate that it can assist students in unit testing on their programming assignments, projects, and can also assess the quality of their implementations.
